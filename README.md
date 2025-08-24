@@ -18,10 +18,7 @@ React.js
 
 Bootstrap / CSS (for styling)
 
-🚀 Getting Started
-Clone the repository
-git clone https://github.com/yourusername/textutils.git
-cd textutils
+
 
 Install dependencies
 npm install
